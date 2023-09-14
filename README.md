@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/83400697/207389240-0dd6d7d2-a7a9-40a8-9137-22fac31e8db1.png)
-
 # Create a Resgistration From 
 
 Registration Form whose data display in same page.
@@ -16,7 +14,7 @@ Registration Form whose data display in same page.
 1. Clone this repository: 
 ```bash 
 
-git clone https://github.com/anubhavv106/LGMVIP-Web-Task-04.github.io
+git clone https://github.com/anubhavv106/LGMVIP-Web-Task-03.github.io
    ```
 2. Open the `index.html` file in your browser.
 
