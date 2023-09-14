@@ -1,4 +1,4 @@
-# Create a Resgistration From 
+# Resgistration From 
 
 Registration Form whose data display in same page.
 
